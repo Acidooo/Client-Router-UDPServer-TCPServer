@@ -5,7 +5,7 @@
 
 # mesaj içerik tanimlamalari
 ID=1
-ogrno=121220094
+ogrno=128020080
 message="packet from client"
 
 
