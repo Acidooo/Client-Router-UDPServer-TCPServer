@@ -2,5 +2,5 @@
  Bash Application Example using Socat
 
 
-# Working Shematics:
+# Working Shematic:
 ![Shematic](https://raw.githubusercontent.com/Acidooo/Client-Router-UDPServer-TCPServer/master/udp_tcp.png)
